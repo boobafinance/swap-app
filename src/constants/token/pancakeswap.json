@@ -2,7 +2,7 @@
   "name": "pancakeswap",
   "timestamp": "2021-03-18T15:41:29.665Z",
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 3,
     "patch": 1
   },
@@ -13,7 +13,7 @@
     {
       "name": "WBNB Token",
       "symbol": "WBNB",
-      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "address": "0x4A732C5B923E042782239e978336C5CA9a3fEE7F",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "/images/coins/BUSD.png"
@@ -36,15 +36,15 @@
     {
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "address": "0xD95169a46d895416CDf778a128E106282f036cC8",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/BUSD.png"
     },
     {
-      "name": "Ethereum Token",
+      "name": "Wrapped Ethereum",
       "symbol": "ETH",
-      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "address": "0x41bF3a64ae05E08153cb9d1aef565D258875Fe35",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/ETH.png"
@@ -54,6 +54,14 @@
       "symbol": "BTCB",
       "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
       "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BTC-icon.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "address": "0xf38D81eE752e5971f6f269af3df4E679e020668e",
+      "chainId": 97,
       "decimals": 18,
       "logoURI": "/images/coins/BTC-icon.png"
     },
@@ -72,18 +80,9 @@
       "symbol": "BOBA",
       "address": "0x53661288eFB53BE5b09bda600B7ed02e2b8317F2",
       "chainId": 97,
-      "decimals": 18,
+      "decimals": 9,
       "logoURI": "/images/coins/wbnb.png"
     },
-    {
-      "name": "After Life",
-      "symbol": "ALife",
-      "address": "0xFecBE190631196e73A879b317D8A51CC4fE6cB0B",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/vladfinance_32.png"
-    },
-
     {
       "name": "Tether USD",
       "symbol": "USDT",
@@ -94,7 +93,7 @@
     },    {
       "name": "Tether USD",
       "symbol": "USDT",
-      "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+      "address": "0x394cafe9e11f289757cf1b60AE10AEcC19F775e7",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "/images/coins/USDT-icon.png"
@@ -103,7 +102,7 @@
     {
       "name": "Dai Token",
       "symbol": "DAI",
-      "address": "0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867",
+      "address": "0xAd867AA2B2BB7503D82F07E5526f2BeaAb12fe7c",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "/images/coins/DAI-icon.png"

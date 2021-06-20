@@ -20,7 +20,7 @@ describe('Remove Liquidity', () => {
   })
 
   it('loads the two correct tokens', () => {
-    cy.visit('/remove/0x5481A517028813956005d77bcD0F561c7276b1e3-0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56')
+    cy.visit('/remove/0x5481A517028813956005d77bcD0F561c7276b1e3-0xD95169a46d895416CDf778a128E106282f036cC8')
     cy.get('#remove-liquidity-tokena-symbol').should('contain.text', 'CAKE')
     cy.get('#remove-liquidity-tokenb-symbol').should('contain.text', 'BUSD')
   })
@@ -32,7 +32,7 @@ describe('Remove Liquidity', () => {
   })
 
   it('token not in storage is loaded', () => {
-    cy.visit('/remove/0x7083609fce4d1d8dc0c979aab8c869ea2c873402-0x2170ed0880ac9a755fd29b2688956bd959f933f8')
+    cy.visit('/remove/0x7083609fce4d1d8dc0c979aab8c869ea2c873402-0x41bF3a64ae05E08153cb9d1aef565D258875Fe35')
     cy.get('#remove-liquidity-tokena-symbol').should('contain.text', 'DOT')
     cy.get('#remove-liquidity-tokenb-symbol').should('contain.text', 'ETH')
   })
