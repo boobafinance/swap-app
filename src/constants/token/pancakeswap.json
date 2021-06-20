@@ -1,0 +1,112 @@
+{
+  "name": "pancakeswap",
+  "timestamp": "2021-03-18T15:41:29.665Z",
+  "version": {
+    "major": 5,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wbnb.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BTC.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/ETH.png"
+    },
+    {
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BTC-icon.png"
+    },
+
+
+    {
+      "name": "BOBAFUT",
+      "symbol": "FUT",
+      "address": "0x5481A517028813956005d77bcD0F561c7276b1e3",
+      "chainId": 97,
+      "decimals": 8,
+      "logoURI": "/images/coins/wbnb.png"
+    },
+    {
+      "name": "BOOBAM",
+      "symbol": "BOBA",
+      "address": "0x53661288eFB53BE5b09bda600B7ed02e2b8317F2",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/wbnb.png"
+    },
+    {
+      "name": "After Life",
+      "symbol": "ALife",
+      "address": "0xFecBE190631196e73A879b317D8A51CC4fE6cB0B",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/vladfinance_32.png"
+    },
+
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/USDT-icon.png"
+    },    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/USDT-icon.png"
+    },
+
+    {
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "address": "0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/DAI-icon.png"
+    }
+  ]
+}
