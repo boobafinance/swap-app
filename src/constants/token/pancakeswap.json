@@ -68,11 +68,11 @@
 
 
     {
-      "name": "BOBAFUT",
-      "symbol": "FUT",
-      "address": "0x5481A517028813956005d77bcD0F561c7276b1e3",
+      "name": "LIVE",
+      "symbol": "LIVE",
+      "address": "0xF1baCBBd622F09eE3212Be2e1e1aA35678903687",
       "chainId": 97,
-      "decimals": 8,
+      "decimals": 18,
       "logoURI": "/images/coins/wbnb.png"
     },
     {
