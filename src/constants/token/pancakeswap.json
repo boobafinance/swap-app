@@ -2,7 +2,7 @@
   "name": "pancakeswap",
   "timestamp": "2021-03-18T15:41:29.665Z",
   "version": {
-    "major": 6,
+    "major": 7,
     "minor": 3,
     "patch": 1
   },
@@ -13,7 +13,7 @@
     {
       "name": "WBNB Token",
       "symbol": "WBNB",
-      "address": "0x4A732C5B923E042782239e978336C5CA9a3fEE7F",
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "/images/coins/BUSD.png"
