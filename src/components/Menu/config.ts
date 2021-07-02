@@ -9,12 +9,12 @@ const config: MenuEntry[] = [
       {
         label: 'BOOBAM',
         icon: 'LogoBoba',
-        href: '?outputCurrency=0x53661288efb53be5b09bda600b7ed02e2b8317f2',
+        href: '?outputCurrency=0x5481a517028813956005d77bcd0f561c7276b1e3',
       },
       {
         label: 'LIVE',
         icon: 'LogoLive',
-        href: '?outputCurrency=0xF1baCBBd622F09eE3212Be2e1e1aA35678903687',
+        href: '?outputCurrency=0x45EeDF18492b6eEe6Ba99d578D0De16ca3bD8967',
       },
       {
         label: 'Farm',
