@@ -69,7 +69,15 @@
 
     {
       "name": "LIVE",
-      "symbol": "LIVE",
+      "symbol": "LIV",
+      "address": "0x45EeDF18492b6eEe6Ba99d578D0De16ca3bD8967",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/wbnb.png"
+    },
+    {
+      "name": "LIVE",
+      "symbol": "LIV",
       "address": "0xF1baCBBd622F09eE3212Be2e1e1aA35678903687",
       "chainId": 97,
       "decimals": 18,
@@ -80,6 +88,14 @@
       "symbol": "BOBA",
       "address": "0x53661288eFB53BE5b09bda600B7ed02e2b8317F2",
       "chainId": 97,
+      "decimals": 9,
+      "logoURI": "/images/coins/wbnb.png"
+    },
+    {
+      "name": "BOOBAM",
+      "symbol": "BOBA",
+      "address": "0x5481a517028813956005d77bcd0f561c7276b1e3",
+      "chainId": 56,
       "decimals": 9,
       "logoURI": "/images/coins/wbnb.png"
     },

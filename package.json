@@ -80,7 +80,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "react-scripts build && cp ./public/CNAME-TESTNET build/CNAME && rm -rf ../swap/* && mv ./build/* ../swap && cd ..\\swap && git add * && git commit -am \"Automated testnet deployment.\" && git push",
+    "deploy": "react-scripts build && rm -rf ../swap/* && mv ./build/* ../swap && cd ../swap && git add * && git commit -am \"Automated testnet deployment.\" && git push",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
