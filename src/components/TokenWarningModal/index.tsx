@@ -24,13 +24,13 @@ const WarningContainer = styled.div`
   width: 100%;
   padding: 1rem;
   background: rgba(242, 150, 2, 0.05);
-  border: 1px solid #f3841e;
+  border: 1px solid  ${({ theme }) => theme.colors.text};
   border-radius: 20px;
   overflow: auto;
 `
 
 const StyledWarningIcon = styled(AlertTriangle)`
-  stroke: ${({ theme }) => theme.colors.failure};
+  stroke: ${({ theme }) => theme.colors.text};
 `
 
 interface TokenWarningCardProps {
@@ -102,7 +102,7 @@ export default function TokenWarningModal({
         <AutoColumn gap="lg">
           <AutoRow gap="6px">
             <StyledWarningIcon />
-            <Text color="failure">Token imported</Text>
+            <Text color="text">Token imported</Text>
           </AutoRow>
           <Text>
             Anyone can create an BEP20 token on BSC with <em>any</em> name, including creating fake versions of existing
@@ -135,7 +135,7 @@ export default function TokenWarningModal({
             </div>
             <Button
               disabled={!understandChecked}
-              variant="danger"
+              variant="tertiary"
               style={{ width: '140px' }}
               className="token-dismiss-button"
               onClick={() => {
