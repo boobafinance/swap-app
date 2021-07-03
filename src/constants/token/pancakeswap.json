@@ -2,8 +2,8 @@
   "name": "pancakeswap",
   "timestamp": "2021-03-18T15:41:29.665Z",
   "version": {
-    "major": 7,
-    "minor": 3,
+    "major": 9,
+    "minor": 1,
     "patch": 1
   },
   "tags": {},
@@ -13,41 +13,26 @@
     {
       "name": "WBNB Token",
       "symbol": "WBNB",
-      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "/images/coins/BUSD.png"
-    },
-    {
-      "name": "WBNB Token",
-      "symbol": "WBNB",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "chainId": 56,
-      "decimals": 18
-    },
-    {
-      "name": "BUSD Token",
-      "symbol": "BUSD",
-      "address": "0xD95169a46d895416CDf778a128E106282f036cC8",
-      "chainId": 97,
       "decimals": 18,
-      "logoURI": "/images/coins/BTC.png"
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
     },
     {
       "name": "BUSD Token",
       "symbol": "BUSD",
-      "address": "0xD95169a46d895416CDf778a128E106282f036cC8",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/BUSD.png"
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
     },
     {
       "name": "Wrapped Ethereum",
       "symbol": "ETH",
-      "address": "0x41bF3a64ae05E08153cb9d1aef565D258875Fe35",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/ETH.png"
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
     },
     {
       "name": "BTCB Token",
@@ -55,15 +40,7 @@
       "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/BTC-icon.png"
-    },
-    {
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "address": "0xf38D81eE752e5971f6f269af3df4E679e020668e",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "/images/coins/BTC-icon.png"
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
     },
 
 
@@ -73,31 +50,15 @@
       "address": "0x45EeDF18492b6eEe6Ba99d578D0De16ca3bD8967",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/liv.png"
-    },
-    {
-      "name": "LIVE",
-      "symbol": "LIV",
-      "address": "0xF1baCBBd622F09eE3212Be2e1e1aA35678903687",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "/images/coins/liv.png"
+      "logoURI": "/images/coins/wbnb.png"
     },
     {
       "name": "BOOBAM",
       "symbol": "BOBA",
-      "address": "0x53661288eFB53BE5b09bda600B7ed02e2b8317F2",
-      "chainId": 97,
-      "decimals": 9,
-      "logoURI": "/images/coins/boba.png"
-    },
-    {
-      "name": "BOOBAM",
-      "symbol": "BOBA",
-      "address": "0x5481a517028813956005d77bcd0f561c7276b1e3",
+      "address": "0x5481A517028813956005d77bcD0F561c7276b1e3",
       "chainId": 56,
       "decimals": 9,
-      "logoURI": "/images/coins/boba.png"
+      "logoURI": "/images/coins/wbnb.png"
     },
     {
       "name": "Tether USD",
@@ -105,23 +66,15 @@
       "address": "0x55d398326f99059ff775485246999027b3197955",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/USDT-icon.png"
-    },    {
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "address": "0x394cafe9e11f289757cf1b60AE10AEcC19F775e7",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "/images/coins/USDT-icon.png"
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x55d398326f99059ff775485246999027b3197955.png"
     },
-
     {
       "name": "Dai Token",
       "symbol": "DAI",
-      "address": "0xAd867AA2B2BB7503D82F07E5526f2BeaAb12fe7c",
-      "chainId": 97,
+      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "chainId": 56,
       "decimals": 18,
-      "logoURI": "/images/coins/DAI-icon.png"
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
     }
   ]
 }
