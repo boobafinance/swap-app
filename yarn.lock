@@ -2214,9 +2214,8 @@
     tiny-warning "^1.0.3"
     toformat "^2.0.0"
 
-"@pancakeswap-libs/uikit@boobafinance/swap-uikit":
+"@pancakeswap-libs/uikit@./swap-uikit":
   version "0.10.7"
-  resolved "https://codeload.github.com/boobafinance/swap-uikit/tar.gz/e32e4b63e3247ef99f1e6ff2371551ece535c31e"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
